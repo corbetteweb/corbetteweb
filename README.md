@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Timothy Corbette
-- 👀 I’m interested in front end design and developement, Sass, Js, Reactjs, Zurb foundation, Twitter bootstrap, responsive layouts, mobile, etc
-- 🌱 I’m currently learning Pega, Vanilla React, Angular
-- 💞️ I’m looking to collaborate on CMS development
-- 📫 How to reach me corbette.web@gmail.com
+# Hi, I’m Timothy Corbette 👋
 
-<!---
-corbetteweb/corbetteweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a frontend developer interested in building thoughtful, accessible web experiences and turning product ideas into practical applications. My current interests span frontend development, application architecture, and AI-assisted development.
+
+## Current focus
+
+- **PSI, ATINUDA, and Wearence** — projects shaping my current development interests and experience.
+- **Application architecture** — exploring how to structure applications so they are easier to maintain and extend.
+- **Accessibility and responsive design** — building interfaces that work for more people across devices.
+- **AI-assisted development** — using AI tools to support exploration, implementation, and iteration, with thoughtful review of the results.
+
+## Skills and experience
+
+- **Frontend:** JavaScript, React, HTML, CSS, and Sass.
+- **Interface development:** responsive layouts, mobile-friendly experiences, Bootstrap, and Foundation.
+- **Product development:** translating ideas into interfaces, refining user experiences, and working through implementation decisions.
+
+## Let’s connect
+
+I’m interested in collaborating on accessible web applications, frontend experiences, and CMS development.
+
+📫 [corbette.web@gmail.com](mailto:corbette.web@gmail.com)
